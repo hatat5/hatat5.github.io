@@ -115,7 +115,7 @@ events:
   - image: "/img/timeline/northwestern.png"
     date: "January 2016 - Present"
     description: "MS in Computer Science at Northwestern University"    
-  - image: "/img/timeline/ETH.png"
+  - image: "/img/timeline/ethzurich.png"
     date: "September 2015 - January 2016"
     description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
   - image: "/img/timeline/stanford.png"
