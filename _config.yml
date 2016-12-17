@@ -48,7 +48,7 @@ background-img: "../img/intro-bg.jpg"
 
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: True
+loop: False 
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
@@ -109,22 +109,22 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/RNN.png"
     date: "March 2016 - Present"
     description: "Research Assistant in Deep Learning & NLP at Northwestern University" 
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/northwestern.png"
     date: "January 2016 - Present"
     description: "MS in Computer Science at Northwestern University"    
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/eth.png"
     date: "September 2015 - January 2016"
     description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/stanford.png"
     date: "June 2015 - January 2016"
     description: "Research Assistant in Biomedical Informatics at Stanford University"      
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/deeplearning.png"
     date: "July 2014 - March 2015"
     description: "Research Assistant in Neural Network Language Modeling at Northwestern University"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/northwestern.jpg"
     date: "September 2013 - Present"
     description: "BA in Statistics at Northwestern University"
 
