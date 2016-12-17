@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/RNN.png"
+  - image: "/img/timeline/deeplearning.png"
     date: "March 2016 - Present"
     description: "Research Assistant in Deep Learning & NLP at Northwestern University" 
   - image: "/img/timeline/northwestern.png"
@@ -118,16 +118,16 @@ events:
   - image: "/img/timeline/eth.png"
     date: "September 2015 - January 2016"
     description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
-  - image: "/img/timeline/stanford.png"
+  - image: "/img/timeline/stanford.jpg"
     date: "June 2015 - January 2016"
     description: "Research Assistant in Biomedical Informatics at Stanford University"      
   - image: "/img/timeline/deeplearning.png"
     date: "July 2014 - March 2015"
     description: "Research Assistant in Neural Network Language Modeling at Northwestern University"
-  - image: "/img/timeline/northwestern.jpg"
+  - image: "/img/timeline/northwestern.png"
     date: "September 2013 - Present"
     description: "BA in Statistics at Northwestern University"
-
+    
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
