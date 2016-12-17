@@ -100,7 +100,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "hatat5"
 
 syntax-highlight: True
 
@@ -116,8 +116,8 @@ events:
     date: "January 2016 - Present"
     description: "MS in Computer Science at Northwestern University"    
   - image: "/img/timeline/spidertocat.png"
-  date: "September 2015 - January 2016"
-  description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
+    date: "September 2015 - January 2016"
+    description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
   - image: "/img/timeline/spidertocat.png"
     date: "June 2015 - January 2016"
     description: "Research Assistant in Biomedical Informatics at Stanford University"      
