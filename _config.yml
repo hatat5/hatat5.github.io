@@ -118,7 +118,7 @@ events:
   - image: "/img/timeline/eth.png"
     date: "September 2015 - January 2016"
     description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
-  - image: "/img/timeline/stanford.jpg"
+  - image: "/img/timeline/stanford.png"
     date: "June 2015 - January 2016"
     description: "Research Assistant in Biomedical Informatics at Stanford University"      
   - image: "/img/timeline/deeplearning.png"
