@@ -61,7 +61,7 @@ me-img: "/img/author.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#e5e5e5"
+color-browser: "#000000"
 apple-status-bar-style: 'white'
 
 ################
