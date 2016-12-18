@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/hobbit-hole-crop.jpeg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,7 +56,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Nishant Subramani: Aspiring Deep Learning Researcher"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
@@ -117,7 +117,7 @@ events:
     description: "MS in Computer Science at Northwestern University"    
   - image: "/img/timeline/ethzurich.png"
     date: "September 2015 - January 2016"
-    description: "Master's Student Exchange Student in Computer Science at ETH Zurich"
+    description: "Master's Exchange Student in Computer Science at ETH Zurich"
   - image: "/img/timeline/stanford.png"
     date: "June 2015 - January 2016"
     description: "Research Assistant in Biomedical Informatics at Stanford University"      
@@ -155,9 +155,9 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/nishantsubramani23"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/InTuchelWeTrust"
   - title: "github"
     url: "https://github.com/hatat5/"
   - title: "rss"
@@ -167,7 +167,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/default.png"
 
 ##################
 # GPG on Keybase #
