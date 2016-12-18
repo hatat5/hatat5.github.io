@@ -61,8 +61,8 @@ me-img: "/img/author.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: 'white'
+color-browser: "#000080"
+apple-status-bar-style: 'black'
 
 ################
 # Web app mode #
