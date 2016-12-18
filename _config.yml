@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/hobbit-hole-crop.jpeg"
+background-img: "../img/hobbit-hole-crop.jpg"
 
 ##############################
 # Dynamic Text on the Header #
