@@ -176,8 +176,6 @@ social:
 pages_list:
   About: 'about'
   Projects: 'projects'
-  Publications: 'publications'
-  Research: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
