@@ -1,6 +1,4 @@
 
-# Site settings
-
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://hatat5.github.io"
@@ -51,7 +49,7 @@ shuffle: True # Shuffle the lines.
 loop: False 
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
+start-delay: 20
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Nishant Subramani: Aspiring Deep Learning Researcher"
@@ -87,7 +85,7 @@ enable-gesture-navigation: True
 
 post-preview-words: 96
 
-paginate: 5
+paginate: 9 
 
 email-share: True
 fb-share: True
@@ -177,6 +175,8 @@ social:
 
 pages_list:
   About: 'about'
+  Projects: 'projects'
+  Publications: 'publications'
   Research: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
