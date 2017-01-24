@@ -176,6 +176,7 @@ social:
 pages_list:
   About: 'about'
   Research: 'research'
+  Blog: 'blog'
   Timeline: 'timeline'
   Contact: 'contact'
 
