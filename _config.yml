@@ -92,8 +92,6 @@ fb-share: True
 twitter-share: True
 linkedin-share: True
 
-disqus-shortname: "hatat5"
-
 syntax-highlight: True
 
 ############

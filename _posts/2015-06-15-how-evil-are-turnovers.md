@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 category: project
-date: 2015-03-30T00:00:00Z
+date: 2015-06-15T00:00:00Z
 tagline: How Evil are Turnovers? 
 tags:
 - machine learning
