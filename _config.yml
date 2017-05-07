@@ -99,11 +99,14 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/salesforce.png"
+    date: "March 2017 - Present"
+    description: "Deep Learning Research Intern at Salesforce Research" 
   - image: "/img/timeline/neuralnet.png"
-    date: "March 2016 - Present"
+    date: "March 2016 - March 2017"
     description: "Research Assistant in Deep Learning & NLP at Northwestern University" 
   - image: "/img/timeline/northwestern.png"
-    date: "January 2016 - Present"
+    date: "January 2016 - March 2017"
     description: "MS in Computer Science at Northwestern University"    
   - image: "/img/timeline/ethzurich.png"
     date: "September 2015 - January 2016"
@@ -115,7 +118,7 @@ events:
     date: "July 2014 - March 2015"
     description: "Research Assistant in Neural Network Language Modeling at Northwestern University"
   - image: "/img/timeline/northwestern.png"
-    date: "September 2013 - Present"
+    date: "September 2013 - March 2017"
     description: "BA in Statistics at Northwestern University"
     
 # First image of the Timeline
