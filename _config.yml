@@ -29,7 +29,7 @@ lang: "en"
 author: "Nishant Subramani"
 title: "Nishant Subramani"
 description: "Website of Nishant Subramani" 
-keywords: "nishant, subramani, personal, northwestern"
+keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll"
 favicon: "/img/favicon.ico"
 
 ################
@@ -52,7 +52,7 @@ type-speed: 10
 start-delay: 20
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Nishant Subramani: Aspiring Deep Learning Researcher"
+  - text: "Nishant Subramani: Machine Learning Researcher"
 
 me-img: "/img/author.png"
 
@@ -142,7 +142,7 @@ email: "nishant.subramani23@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Nishant Subramani is a BA/MS Student in Statistics/Computer Science at Northwestern University. His research is in Deep Learning applied to NLP."
+author_blurb: "Nishant Subramani is a PhD Student in Computer Science at New York University. His research is in Deep Learning applied to NLP."
 author_blurb_image: "/img/author.png"
 
 ##################
