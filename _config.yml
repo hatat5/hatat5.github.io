@@ -55,7 +55,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Nishant Subramani: Machine Learning Researcher"
 
-me-img: "/img/author.png"
+me-img: "/img/author.jpeg"
 
 ##############################
 # Color the browser elements #
