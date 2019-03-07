@@ -53,7 +53,7 @@ type-speed: 10
 start-delay: 20
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Nishant Subramani: Machine Learning Researcher"
+  - text: "Nishant Subramani: Machine Learning Researcher Looking for Full-Time Opportunities"
 
 me-img: "/img/author2.png"
 
