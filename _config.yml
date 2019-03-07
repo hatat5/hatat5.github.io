@@ -144,7 +144,7 @@ email: "nishant.subramani23@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Nishant Subramani is a PhD Student in Computer Science at New York University. His research is in Deep Learning applied to NLP."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/author.jpeg"
 
 ##################
 # Social Buttons #
