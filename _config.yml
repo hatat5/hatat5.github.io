@@ -55,7 +55,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Nishant Subramani: Machine Learning Researcher"
 
-me-img: "/img/author.jpeg"
+me-img: "/img/author2.png"
 
 ##############################
 # Color the browser elements #
@@ -144,7 +144,7 @@ email: "nishant.subramani23@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Nishant Subramani is a PhD Student in Computer Science at New York University. His research is in Deep Learning applied to NLP."
-author_blurb_image: "/img/author.jpeg"
+author_blurb_image: "/img/author2.png"
 
 ##################
 # Social Buttons #
