@@ -101,8 +101,8 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/nyu.jpg"
-    date: "September 2017 - Present"
-    description: "Computer Science PhD Student in Machine Learning at New York University" 
+    date: "September 2017 - May 2019"
+    description: "MS in Computer Science (Machine Learning) at New York University" 
   - image: "/img/timeline/salesforce.png"
     date: "March 2017 - August 2017"
     description: "Deep Learning Research Intern at Salesforce Research" 
@@ -143,7 +143,7 @@ email: "nishant.subramani23@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Nishant Subramani is a PhD Student in Computer Science at New York University. His research is in Deep Learning applied to NLP."
+author_blurb: "Nishant Subramani is a Machine Learning Researcher looking for full-time opportunities in industry. His research has been in Deep Learning applied to NLP and causality."
 author_blurb_image: "/img/author2.png"
 
 ##################
