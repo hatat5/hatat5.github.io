@@ -100,6 +100,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/aif.jpeg"
+    date: "July 2019 - Present"
+    description: "Research Scientist at the AI Foundation" 
   - image: "/img/timeline/nyu.jpg"
     date: "September 2017 - May 2019"
     description: "MS in Computer Science (Machine Learning) at New York University" 
