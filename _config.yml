@@ -100,9 +100,12 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/scale.png"
+    date: "April 2020 - Present"
+    description: "ML Research Scientist at Scale AI" 
   - image: "/img/timeline/aif.jpeg"
-    date: "July 2019 - Present"
-    description: "Research Scientist at the AI Foundation" 
+    date: "July 2019 - January 2020"
+    description: "Research Scientist at AI Foundation" 
   - image: "/img/timeline/nyu.jpg"
     date: "September 2017 - May 2019"
     description: "MS in Computer Science (Machine Learning) at New York University" 
@@ -146,7 +149,7 @@ email: "nishant.subramani23@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Nishant Subramani is a Machine Learning Researcher looking for full-time opportunities in industry. His research has been in Deep Learning applied to NLP and causality."
+author_blurb: "Nishant Subramani is a Machine Learning Researcher at Scale AI who is experienced in machine learning, deep learning, natural language processing, and fake speech detection and synthesis."
 author_blurb_image: "/img/author2.png"
 
 ##################
