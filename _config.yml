@@ -79,7 +79,7 @@ timeline-img: "/img/timeline/default.png"
 #black-favicon: "/img/black-lab-glass.ico"
 
 #background-img: "/img/galaxy.jpg"
-background-img: "/img/hobbit_hole.png"
+#background-img: "/img/hobbit_hole.png"
 
 ##############################
 # Dynamic Text on the Header #
