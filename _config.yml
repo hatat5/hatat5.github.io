@@ -32,6 +32,46 @@ description: "Website of Nishant Subramani"
 keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll"
 favicon: "/img/favicon.ico"
 
+############
+# Timeline #
+############
+
+events:
+  - image: "/img/timeline/scale.png"
+    date: "April 2020 - Present"
+    description: "ML Research Scientist at Scale AI" 
+  - image: "/img/timeline/aif.jpeg"
+    date: "July 2019 - January 2020"
+    description: "Research Scientist at AI Foundation" 
+  - image: "/img/timeline/nyu.jpg"
+    date: "September 2017 - May 2019"
+    description: "MS in Computer Science (Machine Learning) at New York University" 
+  - image: "/img/timeline/salesforce.png"
+    date: "March 2017 - August 2017"
+    description: "Deep Learning Research Intern at Salesforce Research" 
+  - image: "/img/timeline/neuralnet.png"
+    date: "March 2016 - March 2017"
+    description: "Research Assistant in Deep Learning & NLP at Northwestern University" 
+  - image: "/img/timeline/northwestern.png"
+    date: "January 2016 - March 2017"
+    description: "MS in Computer Science at Northwestern University"    
+  - image: "/img/timeline/ethzurich.png"
+    date: "September 2015 - January 2016"
+    description: "Master's Exchange Student in Computer Science at ETH Zurich"
+  - image: "/img/timeline/stanford.png"
+    date: "June 2015 - January 2016"
+    description: "Research Assistant in Biomedical Informatics at Stanford University"      
+  - image: "/img/timeline/neuralnet.png"
+    date: "July 2014 - March 2015"
+    description: "Research Assistant in Neural Network Language Modeling at Northwestern University"
+  - image: "/img/timeline/northwestern.png"
+    date: "September 2013 - March 2017"
+    description: "BA in Statistics at Northwestern University"
+    
+# First image of the Timeline
+
+timeline-img: "/img/timeline/default.png"
+
 ################
 # Header layout #
 ################
@@ -94,46 +134,6 @@ twitter-share: True
 linkedin-share: True
 
 syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/timeline/scale.png"
-    date: "April 2020 - Present"
-    description: "ML Research Scientist at Scale AI" 
-  - image: "/img/timeline/aif.jpeg"
-    date: "July 2019 - January 2020"
-    description: "Research Scientist at AI Foundation" 
-  - image: "/img/timeline/nyu.jpg"
-    date: "September 2017 - May 2019"
-    description: "MS in Computer Science (Machine Learning) at New York University" 
-  - image: "/img/timeline/salesforce.png"
-    date: "March 2017 - August 2017"
-    description: "Deep Learning Research Intern at Salesforce Research" 
-  - image: "/img/timeline/neuralnet.png"
-    date: "March 2016 - March 2017"
-    description: "Research Assistant in Deep Learning & NLP at Northwestern University" 
-  - image: "/img/timeline/northwestern.png"
-    date: "January 2016 - March 2017"
-    description: "MS in Computer Science at Northwestern University"    
-  - image: "/img/timeline/ethzurich.png"
-    date: "September 2015 - January 2016"
-    description: "Master's Exchange Student in Computer Science at ETH Zurich"
-  - image: "/img/timeline/stanford.png"
-    date: "June 2015 - January 2016"
-    description: "Research Assistant in Biomedical Informatics at Stanford University"      
-  - image: "/img/timeline/neuralnet.png"
-    date: "July 2014 - March 2015"
-    description: "Research Assistant in Neural Network Language Modeling at Northwestern University"
-  - image: "/img/timeline/northwestern.png"
-    date: "September 2013 - March 2017"
-    description: "BA in Statistics at Northwestern University"
-    
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
