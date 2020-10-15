@@ -79,7 +79,7 @@ timeline-img: "/img/timeline/default.png"
 #black-favicon: "/img/black-lab-glass.ico"
 
 #background-img: "/img/galaxy.jpg"
-#background-img: "/img/hobbit_hole.png"
+background-img: "/img/hobbit_hole.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -185,8 +185,8 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  Timeline: 'timeline'
   About: 'about'
+  Timeline: 'timeline'
   Research: 'research'
   Blog: 'latest-post'
   Contact: 'contact'
