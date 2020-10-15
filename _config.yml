@@ -29,7 +29,7 @@ lang: "en"
 author: "Nishant Subramani"
 title: "Nishant Subramani"
 description: "Website of Nishant Subramani" 
-keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll"
+keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll, scale, scale ai"
 favicon: "/img/favicon.ico"
 
 ############
@@ -185,10 +185,10 @@ social:
 # Sections shown in the index page
 
 pages_list:
+  Timeline: 'timeline'
   About: 'about'
   Research: 'research'
   Blog: 'latest-post'
-  Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
