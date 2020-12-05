@@ -38,7 +38,7 @@ favicon: "/img/favicon.ico"
 
 events:
   - image: "/img/timeline/scale.png"
-    date: "April 2020 - Present"
+    date: "April 2020 - December 2020"
     description: "ML Research Scientist at Scale AI" 
   - image: "/img/timeline/aif.jpeg"
     date: "July 2019 - January 2020"
