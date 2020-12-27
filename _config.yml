@@ -95,7 +95,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Nishant Subramani: Machine Learning Researcher"
 
-me-img: "/img/author2.png"
+me-img: "/img/author2.jpg"
 
 ##############################
 # Color the browser elements #
@@ -149,8 +149,8 @@ email: "nishant.subramani23@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Nishant Subramani is a Machine Learning Researcher at Scale AI who is experienced in machine learning, deep learning, natural language processing, and fake speech detection and synthesis."
-author_blurb_image: "/img/author2.png"
+author_blurb: "Nishant Subramani is a Machine Learning Researcher with interests in machine learning, deep learning, natural language processing, ML for social good, and fake speech detection and synthesis."
+author_blurb_image: "/img/author2.jpg"
 
 ##################
 # Social Buttons #
