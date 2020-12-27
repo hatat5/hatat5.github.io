@@ -29,7 +29,7 @@ lang: "en"
 author: "Nishant Subramani"
 title: "Nishant Subramani"
 description: "Website of Nishant Subramani" 
-keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll, scale, scale ai"
+keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll, scale, scale ai, deep learning, natural language processing"
 favicon: "/img/favicon.ico"
 
 ############
@@ -80,6 +80,7 @@ timeline-img: "/img/timeline/default.png"
 
 #background-img: "/img/galaxy.jpg"
 #background-img: "/img/hobbit_hole.png"
+background-img: "/img/honolulu_rainbow_background.jpg"
 
 ##############################
 # Dynamic Text on the Header #
