@@ -29,7 +29,7 @@ lang: "en"
 author: "Nishant Subramani"
 title: "Nishant Subramani"
 description: "Website of Nishant Subramani" 
-keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll, scale, scale ai, deep learning, natural language processing"
+keywords: "nishant, subramani, personal, northwestern, nyu, new york university, cilvr, mll, scale, scale ai, deep learning, natural language processing, NLP, ML, predoctoral, intel"
 favicon: "/img/favicon.ico"
 
 ############
@@ -37,6 +37,9 @@ favicon: "/img/favicon.ico"
 ############
 
 events:
+  - image: "/img/timeline/intel.jpeg"
+    date: "January 2021 - Present"
+    description: "Predoctoral Resident at Intel's Intelligent Systems Lab" 
   - image: "/img/timeline/scale.png"
     date: "April 2020 - December 2020"
     description: "ML Research Scientist at Scale AI" 
